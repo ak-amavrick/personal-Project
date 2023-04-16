@@ -1,0 +1,7 @@
+spring:
+redis:
+host:localhost
+
+password:port:6379lettuce:shutdown-timeout:30000pool:max-active:30 
+
+max-idle:8min-idle=0
